@@ -1,0 +1,4 @@
+     Con esta información podrá accesar a nuestro Sistema por medio de las páginas: http://200.90.20.124/tf_acreditacion, donde deberá cargar la Información de las personas que trabajarán en nuestr evento en representación de su empresa. Adicionalmente deberá cargar la fotografía tipo Carnet digitalizada, con las siguientes características:
+Formato del Archivo: jpg o gif
+Tamaño máximo en Pixeles: 250 x 380
+Tamaño míximo en KB: 30
